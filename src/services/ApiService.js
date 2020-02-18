@@ -1,8 +1,9 @@
 import axios from "axios";
 import mime from "mime-types";
 
-const graphqlUrl = "https://2z3y6dp5d8.execute-api.us-west-2.amazonaws.com/Prod/graphql";
-// const graphqlUrl = process.env.REACT_APP_API;
+const graphqlUrl = process.env.REACT_APP_API;
+
+console.log(graphqlUrl);
 
 class ApiService {
   // Queries
