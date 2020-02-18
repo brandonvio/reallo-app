@@ -1,0 +1,33 @@
+import React, { useCallback } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { useDropzone } from "react-dropzone";
+import { useS3Upload } from "../hooks/useS3Upload";
+
+export const PropertyImageUpload = ({
+  children
+  // other props here
+}) => {
+  const presignedUploadUrl = useSelector(state => state.presignedUrl);
+  console.log(presignedUploadUrl);
+
+  const { getRootProps, getInputProps } = useS3Upload({
+    presignedUploadUrl,
+    // callbacks here
+    onUploadStart: () => {
+      console.log("onUploadStart");
+    },
+    onUploadReady: () => {
+      console.log("onUploadReady");
+    },
+    onError: () => {
+      console.log("onError");
+    }
+  });
+
+  return (
+    <div {...getRootProps()}>
+      {children}
+      <input {...getInputProps()} />
+    </div>
+  );
+};

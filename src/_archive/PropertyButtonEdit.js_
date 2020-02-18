@@ -1,0 +1,30 @@
+import React, { useState } from "react";
+import { Button } from "react-bootstrap";
+import { PropertyModalForm } from "../components/PropertyModalForm";
+import { useDispatch } from "react-redux";
+import { editProperty } from "../reducers/actions";
+
+export default function PropertyButtonEdit({ property_id }) {
+  const [modalShow, setModalShow] = useState(false);
+  const dispatch = useDispatch();
+
+  return (
+    <>
+      <Button
+        variant="info"
+        onClick={() => {
+          dispatch(editProperty(property_id));
+          setModalShow(true);
+        }}
+      >
+        Edit
+      </Button>
+      <PropertyModalForm
+        property_id={property_id}
+        title="Edit Property"
+        show={modalShow}
+        onHide={() => setModalShow(false)}
+      />
+    </>
+  );
+}

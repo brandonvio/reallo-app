@@ -1,0 +1,6 @@
+#!/bin/bash
+echo ##################### Package
+yarn build 
+
+echo ##################### Deploy
+aws s3 sync build/ s3://re-demo.brandonv.io --acl public-read

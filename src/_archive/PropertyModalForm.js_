@@ -1,0 +1,34 @@
+import React, { useState } from "react";
+import { Button, Modal } from "react-bootstrap";
+import { useSelector, useDispatch } from "react-redux";
+import { PropertyForm } from "../components/PropertyForm";
+import { allProperties } from "../reducers/actions";
+
+export const PropertyModalForm = props => {
+  const user = useSelector(state => state.user);
+  const property = useSelector(state => state.propertySelected);
+  const dispatch = useDispatch();
+  const [modalTitle, setModalTitle] = useState("");
+  // console.log(props.property_id);
+  return (
+    <Modal {...props} dialogClassName="customModal" size="xl">
+      <Modal.Header closeButton>
+        <Modal.Title id="property-modal">{modalTitle}</Modal.Title>
+      </Modal.Header>
+      <Modal.Body>
+        <PropertyForm property={property} user={user} setModalTitle={setModalTitle} />
+      </Modal.Body>
+      <Modal.Footer>
+        <Button
+          onClick={() => {
+            console.log("hide");
+            dispatch(allProperties());
+            props.onHide();
+          }}
+        >
+          Close
+        </Button>
+      </Modal.Footer>
+    </Modal>
+  );
+};
