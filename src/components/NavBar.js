@@ -12,7 +12,7 @@ const NavBar = () => {
     <Navbar expand="lg" className={("navbar-dark", "bg-primary")}>
       <Navbar.Brand>
         <Link className="link" to="/">
-          FTS Real Estate
+          Real Estate Portfolio Project (brandonv.io)
         </Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
