@@ -10,13 +10,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
-.property-card {
+/* .property-card {
   color: white !important;
 }
 
 .link {
   color: white !important;
-}
+} */
 
 .link:hover {
   text-decoration: none;
@@ -30,14 +30,14 @@ code {
   line-height: 1.2;
 }
 
-#propertyImageDropZone {
-  border-style: dashed;
-  min-height: 70px;
-  width: 100%;
-}
-
 td img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#propertyImageDropZone {
+  border-style: dashed;
+  min-height: 70px;
+  width: 100%;
 }

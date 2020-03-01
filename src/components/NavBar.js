@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Nav } from "react-bootstrap";
+import { Navbar, Nav, Form, Button, FormControl } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import LoginButton from "../components/LoginButton";
@@ -9,11 +9,9 @@ const NavBar = () => {
 
   // console.log(user);
   return (
-    <Navbar expand="lg" className={("navbar-dark", "bg-primary")}>
+    <Navbar expand="lg">
       <Navbar.Brand>
-        <Link className="link" to="/">
-          Real Estate Portfolio Project (brandonv.io)
-        </Link>
+        <a href="/">reallo.xyz</a>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
@@ -24,9 +22,10 @@ const NavBar = () => {
             </Link>
           )}
         </Nav>
-        <Navbar.Text>
+        <Form inline>
+          {/* <Button type="submit">Submit</Button> */}
           <LoginButton />
-        </Navbar.Text>
+        </Form>
       </Navbar.Collapse>
     </Navbar>
   );

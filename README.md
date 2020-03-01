@@ -1,9 +1,9 @@
 # re-demo
 
-This is the repository for a demo real estate application I built to use as a portfolio project and showcase proficiency as a AWS Solutions Architect and Fullstack Software Engineer.
+This is the repository for a reallo.xyz. A estate application I built to use as a portfolio project and showcase proficiency as a AWS Solutions Architect and Fullstack Software Engineer.
 
 Access the running application here:  
-[https://re-demo.brandonv.io](https://re-demo.brandonv.io)
+[https://reallo.xyz](https://reallo.xyz)
 
 ## architecture - front end
 
