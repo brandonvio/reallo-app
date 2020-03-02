@@ -5,6 +5,8 @@ This is the repository for a reallo.xyz. A estate application I built to use as 
 Access the running application here:  
 [https://reallo.xyz](https://reallo.xyz)
 
+username/password = reallo/reallo
+
 ## architecture - front end
 
 - React - front end framework
