@@ -7,7 +7,7 @@ Access the running application here:
 
 username/password = reallo/reallo
 
-## architecture - front end
+## architecture - front end | [reallo-app](https://github.com/brandonvio/reallo-app)
 
 - React - front end framework
 - Redux - state management
@@ -19,7 +19,7 @@ username/password = reallo/reallo
 - AWS CloudFront - content distribution
 - AWS Certificate Manager - SSL certificate
 
-## architecture - back end
+## architecture - back end | [reallo-api](https://github.com/brandonvio/reallo-api)
 
 - AWS Lambda - serverless execution environment
 - AWS API Gateway - api into lambda function
