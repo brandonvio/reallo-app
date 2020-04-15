@@ -29,3 +29,5 @@ username/password = reallo/reallo
 - GraphQL - api layer
 - Apollo Server - GraphQL server for node.js
 - knex - data access layer
+
+![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/arch.png)
