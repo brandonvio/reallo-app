@@ -1,11 +1,11 @@
 import React from "react";
-import { Navbar, Nav, Form, Button, FormControl } from "react-bootstrap";
+import { Navbar, Nav, Form } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import LoginButton from "../components/LoginButton";
 
 const NavBar = () => {
-  const user = useSelector(state => state.user);
+  const user = useSelector((state) => state.user);
 
   // console.log(user);
   return (
