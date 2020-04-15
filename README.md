@@ -31,3 +31,5 @@ username/password = reallo/reallo
 - knex - data access layer
 
 ![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/arch.png)
+
+![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/screenshot01.png)
