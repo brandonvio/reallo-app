@@ -3,15 +3,15 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm i yarn@latest -g
       - pip install --upgrade pip
       - pip install --upgrade awscli
   pre_build:
     commands:
-      - yarn install
+      - npm install
   build:
     commands:
-      - yarn build
+      - npm run-script build
   post_build:
     commands:
-      - aws s3 sync ./build $S3_BUCKET
+      - aws s3 sync build/ s3://reallo.xyz --acl public-read
+      - aws cloudfront create-invalidation --distribution-id E1SYZFBCFQZG6V --paths "/*"
