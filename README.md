@@ -18,17 +18,21 @@ username/password = reallo/reallo
 - AWS Route53 - domain hosting
 - AWS CloudFront - content distribution
 - AWS Certificate Manager - SSL certificate
+- AWS CodeBuild - continuous integration and deployment
+- AWS CodePipeline - continuous integration and deployment
 
 ## architecture - back end | [reallo-api](https://github.com/brandonvio/reallo-api)
 
-- AWS Lambda - serverless execution environment
-- AWS API Gateway - api into lambda function
-- AWS S3 - property image storage via S3 presigned urls
-- AWS MySQL RDS - database server
 - node.js - javascript runtime
 - GraphQL - api layer
 - Apollo Server - GraphQL server for node.js
 - knex - data access layer
+- AWS Lambda - serverless execution environment
+- AWS API Gateway - api into lambda function
+- AWS S3 - property image storage via S3 presigned urls
+- AWS MySQL RDS - database server
+- AWS CodeBuild - continuous integration and deployment
+- AWS CodePipeline - continuous integration and deployment
 
 ![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/arch.png)
 
