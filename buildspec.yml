@@ -7,10 +7,10 @@ phases:
       - pip install --upgrade awscli
   pre_build:
     commands:
-      - npm install
+      - yarn
   build:
     commands:
-      - npm run-script build
+      - yarn build
   post_build:
     commands:
       - aws s3 sync build/ s3://reallo.xyz --acl public-read
