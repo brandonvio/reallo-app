@@ -1,0 +1,19 @@
+# buildspec.yml
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - npm i npm@latest -g
+      - pip install --upgrade pip
+      - pip install --upgrade awscli
+  pre_build:
+    commands:
+      - npm install
+  build:
+    commands:
+      - echo building... attempt 5..
+  post_build:
+    commands:
+      - aws cloudformation package --template-file template.yaml --output-template-file serverless-output.yaml --s3-bucket codepipeline-us-west-2-reallo-api
+      - aws cloudformation deploy --template-file serverless-output.yaml --stack-name reallo-api --capabilities CAPABILITY_IAM

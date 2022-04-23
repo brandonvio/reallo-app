@@ -1,0 +1,27 @@
+{
+  "name": "re-demo-api",
+  "version": "1.0.0",
+  "description": "API for Real Estate portfolio project.",
+  "repository": "https://github.com/brandonvio/re-demo",
+  "author": "Brandon Vicedomini",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.4.0",
+    "apollo-server-lambda": "^2.12.0",
+    "aws-sdk": "^2.656.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-tools": "^4.0.7",
+    "knex": "^1.0.3",
+    "mime-types": "^2.1.26",
+    "mysql2": "^2.1.0",
+    "pg": "^8.0.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}

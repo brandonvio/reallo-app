@@ -1,0 +1,1706 @@
+{
+  "data": {
+    "getListing": {
+      "id": "180-l-814-xbymgh",
+      "VirtualTour": "https://vimeo.com/670514714/e29c376d53",
+      "VirtualTour3D": "https://my.matterport.com/show/?m=BYNVXwyeMYv&mls=1",
+      "videoembedcode": null,
+      "address": {
+        "addrcity": "Bend",
+        "addrcountry": "United States",
+        "addrcounty": "Deschutes County",
+        "addrdisplay": "63225 Lookout Drive Bend, OR 97703",
+        "addrstate": "Oregon",
+        "addrstateabbr": "OR",
+        "addrzip": "97703",
+        "countryiso3": "USA",
+        "address": "63225 Lookout Drive",
+        "addrneighborhoodprimary": null,
+        "__typename": "Address"
+      },
+      "mainprice": {
+        "display": null,
+        "current": {
+          "value": "7500000",
+          "formatted": "$7,500,000",
+          "iso": "USD",
+          "symbol": "$",
+          "__typename": "PriceInfo"
+        },
+        "local": {
+          "value": "7500000",
+          "formatted": "$7,500,000",
+          "iso": "USD",
+          "symbol": "$",
+          "__typename": "PriceInfo"
+        },
+        "buyerAgencyCompensation": null,
+        "__typename": "MainPrice"
+      },
+      "nophotourl": "/_responsive/images/common/nophoto/listing.jpg",
+      "photos": {
+        "photo": [
+          {
+            "url": "https://sir.azureedge.net/1278i215/zp0cty82eedv4y2tm1ed21yrr1i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/8arhv1epxdcg4vj675q4jv32j4i215",
+            "caption": "Offering the best of Central Oregon lifestyle inside and out",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/22yp763mz0z0mvtgxyscd5y4f6i215",
+            "caption": "High Desert Living at its finest",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/4ch0ggxxh8c6md2fkgy0362q10i215",
+            "caption": "Custom design my AOME Architecture locally based in the Pacific Northwest",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/8gazh1kpaap64r20c3j1qtxhx0i215",
+            "caption": "Abundant privacy yet still moments from Downtown Bend, Oregon",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/bbsm9b1g748c4qtrecfx6xe5d6i215",
+            "caption": "Exterior elements lend to interior charm",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/8aztssr6jt0tmj2av6r1k0x3g6i215",
+            "caption": "Great room is thoughtfully designed to capture the elegance of both indoors and outdoors",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/6028c0bhfvja4my5vfr4h0pd30i215",
+            "caption": "Propane heated, stacked stone fireplace with rock accents gives the great room a cozy yet dramatic setting for entertaining guests",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/nck62377kerpm9yr7vcp6cpcn2i215",
+            "caption": "Features include built-in accents hosting media equipment and state of the art in-floor radiant heating",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/pafrnvrgj9gd4b2dk59bebvnj5i215",
+            "caption": "Open concept floor plan allows you to soak up the mountain views from both the kitchen and great room",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/ta3x7a2cvb9mm26bswaqesfay0i215",
+            "caption": "Welcoming dining room allows for festive entertaining",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/k2jdacnxfthtmsahs0mzxydmp4i215",
+            "caption": "Several interior doors lead to multiple outdoor living spaces",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/j925x7dbwx524aet0p0dg4pc63i215",
+            "caption": "Primary master suite encompasses steep, pitched ceiling and inviting balcony",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/ks6jtj552qmvmfek18c8jq14t1i215",
+            "caption": "Additional lounge in the primary master suite",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/myz9h3v4cevqmepa1x7hq2g757i215",
+            "caption": "Unwind in the spa-like master bath",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/3309rpnydjnam0yfcrn683w9m7i215",
+            "caption": "Clear fir ceilings and hand carved archways are a feature to be enjoyed",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/pe4ms6kb7rzp4spgfrw04v44j0i215",
+            "caption": "Additional second floor en suite bedroom does not disappoint in size and generous views",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/e55max8jqymamht4jgmk1b7yh6i215",
+            "caption": "Uniquely designed double vanity, spacious shower, and elevated bath",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/mq89mj64c0ww47a4azww672sy3i215",
+            "caption": "Timeless finish selections in every corner of the house",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/w38mq08vw95bmby1a3fyax2mf3i215",
+            "caption": "Spacious office nested above its own wing of the house",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/ncnzqh9nmzdfm5yjk21bcygwe3i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/n4a17erbeq5qm6pe901j0vxg13i215",
+            "caption": "Additional en-suite bedroom on the main floor",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/wwm45jsq0vjjm7j2fz7pmtdv51i215",
+            "caption": "Fourth interior bedroom is set up with media center and private patio",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/tc9s407qb72t4qyk8tx12dyqp5i215",
+            "caption": "Architectural details include thoughtfully laid out elements to encompass the geographical beauty of the area",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/6renfszxxyk9my2r7spa81t4c7i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/fw22ark3tq3vmm2sq8xf9f7rg2i215",
+            "caption": "Entering the home from the garage offers an abundance of storage and space",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/9hb89gncq836mj6aeyat681zt6i215",
+            "caption": "One of two additional bathrooms in the home",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/pdrc9nhxzh45m12yakcscvb2p7i215",
+            "caption": "Guest house was designed to reflect the original history of the property",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/vfe8wqfdhdmvmhae82nfby79j5i215",
+            "caption": "Clear fir accents are carried throughout the main home and guest house",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/w4npk4axknxk49j1jf9btg1896i215",
+            "caption": "The Lookout space has a dramatic view of the main house and the forest beyond",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/kp0age9dzrc5ms6dgdteg0ykf2i215",
+            "caption": "Formal bedroom in the guest house",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/6rkxc7y022ptmbazavn7m5rk33i215",
+            "caption": "Living area and full kitchen allow guests to have space and privacy while visiting",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/gyvvw2vrkd62mhtsafd9f32cv1i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/7hg3451rwgnxmpp3y47qp22dv4i215",
+            "caption": "Flex space for working out or down time",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/0bac0nxkrvn248a0fmrqq0cc63i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/tz6jh9v5rz5qmzanwx66r1jbj1i215",
+            "caption": "Roughly 25 acres on Tumalo Butte in Bend, Oregon",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/jaf2sw0hvwzhmfjtkh2ddk22s2i215",
+            "caption": "Tennis Court with two basketball hoops that can be lit day and night",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/59z930wamgqb4xah1fhzw0heq1i215",
+            "caption": "Separate garage bays for all of your Central Oregon toys",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/vy2xz2y3rkpg4sehfbxn0pcq33i215",
+            "caption": "Interior space allows for large RVs, storage, and multiple vehicles. Skylights offer additional lighting.",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/bfqnvzeg9d9wm9p5h919zrp7f1i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/frhhcexyytpdm6a5nx2e4nqj35i215",
+            "caption": "Relax and unwind on your own private butte overlooking Deschutes National Forest",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/1pd8z90njteq4htmee46a13cs1i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/v1dx2tebvf20m9eerw1gfmf8w3i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/1wmtbq15jx7em3y4pdkc61b7b4i215",
+            "caption": "Unparalleled mountain views nested on Tumalo Butte",
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/dwb7bkckmmnmmzpa5fhrvyq561i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/w6qdqa6t7cp844j7v32qvh0xj3i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/vb5krxe7rg4vmze6gj4gsx5ve6i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/ta90pah58z58m3p7w89aq26f43i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          },
+          {
+            "url": "https://sir.azureedge.net/1278i215/1xhan1504faymayw9knhm43ma6i215",
+            "caption": null,
+            "portrait": false,
+            "__typename": "Photo"
+          }
+        ],
+        "__typename": "Photos"
+      },
+      "Guid": "53cfdf37-2fcb-4355-98e3-21412574aec9",
+      "openhouse": null,
+      "statusflags": {
+        "firstlook": false,
+        "contractpending": false,
+        "openhouse": false,
+        "new": false,
+        "offerpending": false,
+        "__typename": "StatusFlags"
+      },
+      "broker": {
+        "brokeraddress": {
+          "street": "650 SW Bond Street",
+          "zip": "97702",
+          "city": "Bend",
+          "state": "Oregon",
+          "country": "United States",
+          "countryiso3": "USA",
+          "stateabbreviation": "OR",
+          "__typename": "BrokerAddress"
+        },
+        "__typename": "ListingBroker"
+      },
+      "floorplans": null,
+      "CanonicalUrl": "/eng/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+      "BuiltYear": 1998,
+      "CommentsLong": "The historic site of the former Tumalo Butte Lookout is now offered for sale! Enjoy expansive views of the Cascade Mountain Range & the forest floor below. The home and lookout tower were designed by AOME Architects, known for their personalized approach to architecture, especially their commitment to blending historical & contemporary components. The 5,921-sf main house boasts clear fir, mesquite flooring & custom stone archways throughout. The upstairs master suite encompasses the treetop views of the vast mountain range. There are also 3 additional ensuite bedrooms, plus a spa, library & great room with gas fireplace. The lookout space - with two bedrooms, living room & office, plus an oversized attached high bay garages - offers the perfect combination of spaces. A detached RV/shop, tennis court, large patios & balconies offer endless options for entertaining. The home is offered mostly furnished. Call today for a private showing!",
+      "DecodePropertyType": "Other Residential Homes",
+      "BrokerName": "Cascade Sotheby's International Realty",
+      "IdBroker": "180-b-814-4000259",
+      "CommentsShort": "The historic site of the former Tumalo Butte Lookout is now offered for sale! Enjoy expansive views of the Cascade Mountain Range &amp; the forest floor below. The home and lookout tower were designed by AOME Architects, known for their personalized...",
+      "DateNewGTS": "6/3/2021",
+      "DateNewSource": null,
+      "DaysOnMarket": 322,
+      "IdWeb": "XBYMGH",
+      "ListingAttribution": null,
+      "IdAffiliate": null,
+      "IdSchoolDistrict": 11617,
+      "BathsFull": 7,
+      "BathsPartial": 1,
+      "Bedroom": 6,
+      "RoomsTotal": null,
+      "Stories": null,
+      "RemodeledYear": null,
+      "CodeFeatured": 1,
+      "GeoLatLng": "44.09565,-121.3708",
+      "Latitude": "44.09565",
+      "Longitude": "-121.3708",
+      "PriceChangeFlag": "N",
+      "SqFeetInterior": 7411,
+      "SqFeetInteriorDisplay": "7411",
+      "SqMetersInterior": null,
+      "propertyCarouselSeoUrl": "/eng/sales/int",
+      "LotAcreage": 24.76,
+      "LotSizeDisplay": "24.76",
+      "LotSqMeters": null,
+      "PropertyThumbnail": "https://sir.azureedge.net/1278i215/zp0cty82eedv4y2tm1ed21yrr1i215",
+      "IsFeatured": true,
+      "FooterImage": "https://sir.azureedge.net/1278i215/8arhv1epxdcg4vj675q4jv32j4i215",
+      "HeaderImage": "https://sir.azureedge.net/1278i215/zp0cty82eedv4y2tm1ed21yrr1i215",
+      "DataSourceType": "Broker Listings",
+      "DecodeStyle": null,
+      "DecodeLifeStyle": null,
+      "DecodeMarketStatus": "Available",
+      "DecodePopularFeature": "Hardwood Flooring, Courtyard, Stone Flooring",
+      "DecodeCoolingType": "Central Air Conditioning",
+      "DecodeParking": "3 Car Garage",
+      "DecodeLotFeature": "Mountain Views",
+      "DecodeLocationViewType": null,
+      "AdvertiserName": "Cascade Sotheby's International Realty",
+      "AdvertiserHomepageURL": null,
+      "AdvertiserListingURL": "http://www.cascadesothebysrealty.com/mls=CRR220124010",
+      "IdAgents": null,
+      "BrokerEmails": null,
+      "BrokerPhonePrimary": null,
+      "BrokerIdUrl": "/eng/office/180-b-814-4000259/cascade-sothebys-international-realty",
+      "realestatetaxmonthly": null,
+      "realestatetaxannual": {
+        "display": null,
+        "current": {
+          "value": "33154",
+          "formatted": "$33,154",
+          "__typename": "PriceInfo"
+        },
+        "local": {
+          "value": "33154",
+          "formatted": "$33,154",
+          "__typename": "PriceInfo"
+        },
+        "__typename": "MainPrice"
+      },
+      "schoolinfo": {
+        "schooldistrict": "Bend-La Pine Administrative 1",
+        "schooldistrictid": null,
+        "schoolelementary": "North Star Elementary",
+        "schoolmiddle": null,
+        "schoolhigh": "Summit High",
+        "schooldistrictseopath": "bend-la-pine-administrative-school-district-1-bend-or",
+        "__typename": "SchoolInfo"
+      },
+      "agents": [
+        {
+          "agentId": "180-a-814-4004556",
+          "name": "Deb Tebbs",
+          "channel": "associates",
+          "Agent1NameFirst": null,
+          "Agent1Name": null,
+          "seoname": "deb-tebbs",
+          "AgentVideo": null,
+          "AgentTagline": null,
+          "agenttitle": "Real Estate Professional",
+          "Agent1Email": null,
+          "email": "800109.lead@leads.leadrouter.com",
+          "address": {
+            "addrcity": "Bend",
+            "addrstate": "Oregon",
+            "addrstateabbr": null,
+            "addrdisplay": "650 SW Bond Street Suite 100",
+            "addrzip": "97702",
+            "addrcountry": "United States",
+            "__typename": "Address"
+          },
+          "BrokerName": null,
+          "AgentPhoneBroker": null,
+          "externallink": null,
+          "mobileAppUrl": null,
+          "specializations": null,
+          "spokenLanguages": null,
+          "coverageareas": null,
+          "photo": "https://sir.azureedge.net/1103i0/w05mvpgw8ft24zeqe125gxst16i",
+          "nophotourl": null,
+          "phones": [
+            {
+              "decrypted": "+1 541.419.4553",
+              "encrypted": "QgMWlIL9cQh25m9n4snNF3fsayMxmi3fzYVuf1P6zjE=",
+              "name": "mobile",
+              "__typename": "Phone"
+            }
+          ],
+          "profile": null,
+          "headline": null,
+          "isteam": false,
+          "team": null,
+          "AgentLicense": null,
+          "__typename": "Agent"
+        },
+        {
+          "agentId": "180-a-814-4031127",
+          "name": "Betsey Little",
+          "channel": "associates",
+          "Agent1NameFirst": null,
+          "Agent1Name": null,
+          "seoname": "betsey-little",
+          "AgentVideo": null,
+          "AgentTagline": null,
+          "agenttitle": "Real Estate Professional",
+          "Agent1Email": null,
+          "email": "800109.lead@leads.leadrouter.com",
+          "address": {
+            "addrcity": "Bend",
+            "addrstate": "Oregon",
+            "addrstateabbr": null,
+            "addrdisplay": "650 SW Bond Street Suite 100",
+            "addrzip": "97702",
+            "addrcountry": "United States",
+            "__typename": "Address"
+          },
+          "BrokerName": null,
+          "AgentPhoneBroker": null,
+          "externallink": null,
+          "mobileAppUrl": null,
+          "specializations": null,
+          "spokenLanguages": null,
+          "coverageareas": null,
+          "photo": "https://sir.azureedge.net/1103i0/rv55y9a1edc14ytsv53d9jb2e7i",
+          "nophotourl": null,
+          "phones": [
+            {
+              "decrypted": "+1 541.301.8140",
+              "encrypted": "A7HhAQ+MbQHPkGiLS+D1FThURUGhZ2J1FtiyUD3HVlc=",
+              "name": "mobile",
+              "__typename": "Phone"
+            }
+          ],
+          "profile": null,
+          "headline": null,
+          "isteam": false,
+          "team": null,
+          "AgentLicense": null,
+          "__typename": "Agent"
+        },
+        {
+          "agentId": "180-a-df19032613581081432",
+          "name": "Tebbs Group",
+          "channel": "associates",
+          "Agent1NameFirst": null,
+          "Agent1Name": null,
+          "seoname": "tebbs-group-",
+          "AgentVideo": null,
+          "AgentTagline": null,
+          "agenttitle": "Real Estate Professionals",
+          "Agent1Email": null,
+          "email": "800109.lead@leads.leadrouter.com",
+          "address": {
+            "addrcity": "Bend",
+            "addrstate": "Oregon",
+            "addrstateabbr": null,
+            "addrdisplay": "650 SW Bond Street Suite 100",
+            "addrzip": "97702",
+            "addrcountry": "United States",
+            "__typename": "Address"
+          },
+          "BrokerName": null,
+          "AgentPhoneBroker": null,
+          "externallink": null,
+          "mobileAppUrl": null,
+          "specializations": null,
+          "spokenLanguages": null,
+          "coverageareas": null,
+          "photo": null,
+          "nophotourl": null,
+          "phones": null,
+          "profile": null,
+          "headline": null,
+          "isteam": false,
+          "team": null,
+          "AgentLicense": null,
+          "__typename": "Agent"
+        }
+      ],
+      "localguide": {
+        "type": "Destinations",
+        "category": "oregon-usa",
+        "excerpt": "Bend is a former timber mill town that now supports solid healthcare and technology sectors",
+        "fullseourl": "//www.sothebysrealty.com/eng/destinations/bend-oregon-usa",
+        "seourl": "bend-oregon-usa",
+        "seopath": "bend-or-usa",
+        "title": "Bend, Oregon, USA",
+        "location": {
+          "SEOPath": "bend-or-usa",
+          "FormattedName": "Bend",
+          "__typename": "LocalGuideLocation"
+        },
+        "__typename": "LocalGuide"
+      },
+      "areaDescription": null,
+      "areaDescriptionVideo": null,
+      "registrationRequired": null,
+      "Subdivision": null,
+      "DecodeUtilities": null,
+      "DecodeConstructionType": null,
+      "DecodeInclusions": null,
+      "DecodeBasement": null,
+      "DecodeCommunityFeatures": null,
+      "DecodeLandUsage": null,
+      "DecodePetPolicy": null,
+      "ParentLocationSeo": "or-usa",
+      "DecodeRentalFrequency": null,
+      "IdRental": null,
+      "PropertyLeadRoutingEmail": "800109.lead@leads.leadrouter.com",
+      "availability": null,
+      "location": {
+        "Country": "usa",
+        "State": "or-usa",
+        "City": "bend-or-usa"
+      },
+      "additionaltax": null,
+      "map": {
+        "latitude": "44.09565",
+        "longitude": "-121.3708",
+        "FlagDisplayAddress": true,
+        "__typename": "ListingMap"
+      },
+      "siteMapFooter": {
+        "citiesbycountry": [],
+        "citiesbystate": [],
+        "nearbycities": [
+          {
+            "index": null,
+            "title": "Redmond",
+            "total": 14,
+            "seourl": "//www.sothebysrealty.com/eng/sales/redmond-or-usa",
+            "__typename": "FooterRecord"
+          },
+          {
+            "index": 1,
+            "title": "Sisters",
+            "total": 13,
+            "seourl": "//www.sothebysrealty.com/eng/sales/sisters-or-usa",
+            "__typename": "FooterRecord"
+          },
+          {
+            "index": 2,
+            "title": "Terrebonne",
+            "total": 12,
+            "seourl": "//www.sothebysrealty.com/eng/sales/terrebonne-or-usa",
+            "__typename": "FooterRecord"
+          },
+          {
+            "index": 3,
+            "title": "Powell Butte",
+            "total": 3,
+            "seourl": "//www.sothebysrealty.com/eng/sales/powell-butte-or-usa",
+            "__typename": "FooterRecord"
+          },
+          {
+            "index": 4,
+            "title": "Sunriver",
+            "total": 1,
+            "seourl": "//www.sothebysrealty.com/eng/sales/sunriver-or-usa",
+            "__typename": "FooterRecord"
+          },
+          {
+            "index": 5,
+            "title": "Eagle Crest",
+            "total": 1,
+            "seourl": "//www.sothebysrealty.com/eng/sales/eagle-crest-or-usa",
+            "__typename": "FooterRecord"
+          }
+        ],
+        "neighborhoods": [],
+        "propertytypes": [],
+        "lifestyles": [],
+        "location": {
+          "searchlevel": 3,
+          "statename": "OR",
+          "cityname": "Bend",
+          "countryname": null,
+          "__typename": "FooterLocation"
+        },
+        "channel": "sales",
+        "LocationSeo": "bend-or-usa",
+        "ParentLocationSeo": "or-usa",
+        "newlistingsresultspagelink": null,
+        "__typename": "SiteMapFooter"
+      },
+      "breadcrumbs": [
+        {
+          "name": "United States",
+          "idregion": "200",
+          "seo": "usa",
+          "level": "Country",
+          "countryiso3": "USA",
+          "stateiso2": null,
+          "lng": "-95.712891",
+          "lat": "37.09024",
+          "addrdisplay": null,
+          "__typename": "LocationsModule"
+        },
+        {
+          "name": "Oregon",
+          "idregion": "200043",
+          "seo": "or-usa",
+          "level": "State",
+          "countryiso3": "USA",
+          "stateiso2": "OR",
+          "lng": "-120.674576",
+          "lat": "44.109478",
+          "addrdisplay": null,
+          "__typename": "LocationsModule"
+        },
+        {
+          "name": "Bend",
+          "idregion": "2000430000030",
+          "seo": "bend-or-usa",
+          "level": "City",
+          "countryiso3": "USA",
+          "stateiso2": "OR",
+          "lng": "-121.31531",
+          "lat": "44.058173",
+          "addrdisplay": null,
+          "__typename": "LocationsModule"
+        },
+        {
+          "name": null,
+          "idregion": null,
+          "seo": null,
+          "level": null,
+          "countryiso3": null,
+          "stateiso2": null,
+          "lng": null,
+          "lat": null,
+          "addrdisplay": "63225 Lookout Drive Bend, OR 97703",
+          "__typename": "LocationsModule"
+        }
+      ],
+      "IdAccount": "814",
+      "salesmeta": null,
+      "recordsource": "Endeca",
+      "pressArticles": null,
+      "SoldOrRentedDate": null,
+      "meta": { "mlsid": ["220124010"], "__typename": "Meta" },
+      "MyPortfolio": {
+        "member": {
+          "username": null,
+          "email": null,
+          "phone": null,
+          "country": null,
+          "state": null,
+          "city": null,
+          "enableemailalert": false,
+          "htmlalertformat": true,
+          "provider": null,
+          "agentassociationid": null,
+          "brokerassociationid": null,
+          "__typename": "Member"
+        },
+        "singlesignonproviders": [
+          {
+            "name": "RENO",
+            "enabled": "true",
+            "setting": null,
+            "__typename": "Provider"
+          },
+          {
+            "name": "Facebook",
+            "enabled": "false",
+            "setting": {
+              "name": "AppID",
+              "value": "1431302100502910",
+              "__typename": "ProviderSetting"
+            },
+            "__typename": "Provider"
+          },
+          {
+            "name": "LinkedIn",
+            "enabled": "false",
+            "setting": {
+              "name": "AppID",
+              "value": "[The application id provided by LinkedIn]",
+              "__typename": "ProviderSetting"
+            },
+            "__typename": "Provider"
+          },
+          {
+            "name": "Google",
+            "enabled": "true",
+            "setting": {
+              "name": "AppID",
+              "value": "550350920801-6vp4ffic4egc1q0ld169e8ut6p2igm3e.apps.googleusercontent.com",
+              "__typename": "ProviderSetting"
+            },
+            "__typename": "Provider"
+          },
+          {
+            "name": "StarTribune",
+            "enabled": "false",
+            "setting": {
+              "name": "AppID",
+              "value": "0",
+              "__typename": "ProviderSetting"
+            },
+            "__typename": "Provider"
+          },
+          {
+            "name": "AppleId",
+            "enabled": "true",
+            "setting": {
+              "name": "AppID",
+              "value": "com.gts.sir.iosapp.client",
+              "__typename": "ProviderSetting"
+            },
+            "__typename": "Provider"
+          }
+        ],
+        "parameters": {
+          "IsSavedSearch": null,
+          "IsSignedIn": false,
+          "__typename": "MyPortfolioParameters"
+        },
+        "__typename": "MyPortfolio"
+      },
+      "Branding": {
+        "textmode": "False",
+        "imageortext": "Image",
+        "text": "Sotheby's International Realty",
+        "image": {
+          "imageurl": "/siteresources/my folder/sir_logo.png",
+          "url": "/siteresources/my folder/sir_logo.png",
+          "width": 159,
+          "height": 53,
+          "alt": "Sotheby's International Realty home",
+          "__typename": "BrandingImage"
+        },
+        "AgentLicense": null,
+        "AgentTitle": null,
+        "phones": null,
+        "BrandedBrokerName": null,
+        "BrandedBrokerDetailPageUrl": null,
+        "BrokerAddress": null,
+        "BrandedLogoUrl": null,
+        "BrandedDetailPageUrl": null,
+        "BrandedName": null,
+        "RequestSource": "CorporateMobileApp",
+        "__typename": "Branding"
+      },
+      "metaInfo": {
+        "title": "63225 Lookout Drive Bend, Oregon, United States – Luxury Home For Sale",
+        "keywords": "luxury real estate, Bend, Oregon, United States",
+        "description": "View this luxury home located at 63225 Lookout Drive Bend, Oregon, United States. Sotheby's International Realty gives you detailed information on real estate listings in Bend, Oregon, United States.",
+        "__typename": "MetaInformation"
+      },
+      "preferences": {
+        "currencyselectormodule": {
+          "currencyresult": {
+            "currency": [
+              {
+                "rate": "1",
+                "currencyname": "American Dollar",
+                "culturecode": "en-US",
+                "symbol": "$",
+                "id": 1,
+                "isocurrencysymbol": "USD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "113.7814826325",
+                "currencyname": "Argentine Peso",
+                "culturecode": "es-AR",
+                "symbol": "$",
+                "id": 2,
+                "isocurrencysymbol": "ARS",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.79",
+                "currencyname": "Aruban Florin",
+                "culturecode": "na-AWG",
+                "symbol": "&#402;",
+                "id": 178,
+                "isocurrencysymbol": "AWG",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.3525446883",
+                "currencyname": "Australian Dollar",
+                "culturecode": "en-AU",
+                "symbol": "$",
+                "id": 3,
+                "isocurrencysymbol": "AUD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1",
+                "currencyname": "Bahamas Dollars",
+                "culturecode": "",
+                "symbol": "$",
+                "id": 187,
+                "isocurrencysymbol": "BSD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.376",
+                "currencyname": "Bahrain Dinars",
+                "culturecode": "ar-BH",
+                "symbol": "BD",
+                "id": 295,
+                "isocurrencysymbol": "BHD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "2",
+                "currencyname": "Barbados Dollars",
+                "culturecode": "",
+                "symbol": "$",
+                "id": 181,
+                "isocurrencysymbol": "BBD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "2.0175439472",
+                "currencyname": "Belize Dollars",
+                "culturecode": "en-BZ",
+                "symbol": "BZ$",
+                "id": 190,
+                "isocurrencysymbol": "BZD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1",
+                "currencyname": "Bermuda Dollars",
+                "culturecode": "",
+                "symbol": "$",
+                "id": 185,
+                "isocurrencysymbol": "BMD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "4.6682832241",
+                "currencyname": "Brazilian Real",
+                "culturecode": "pt-BR",
+                "symbol": "R$",
+                "id": 5,
+                "isocurrencysymbol": "BRL",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.7684383202",
+                "currencyname": "British Pound",
+                "culturecode": "en-GB",
+                "symbol": "&#163;",
+                "id": 6,
+                "isocurrencysymbol": "GBP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.3677210662",
+                "currencyname": "Brunei dollar",
+                "culturecode": "ms-BN",
+                "symbol": "$",
+                "id": 7,
+                "isocurrencysymbol": "BND",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "4075.1469258939",
+                "currencyname": "Cambodia Riels",
+                "culturecode": "km-KH",
+                "symbol": "&#6107;",
+                "id": 223,
+                "isocurrencysymbol": "KHR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.2604332962",
+                "currencyname": "Canadian Dollar",
+                "culturecode": "fr-CA",
+                "symbol": "$",
+                "id": 9,
+                "isocurrencysymbol": "CAD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.8200201295",
+                "currencyname": "Cayman Islands Dollars",
+                "culturecode": "",
+                "symbol": "$",
+                "id": 226,
+                "isocurrencysymbol": "KYD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "819.5428841833",
+                "currencyname": "Chilean Peso",
+                "culturecode": "es-CL",
+                "symbol": "$",
+                "id": 10,
+                "isocurrencysymbol": "CLP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "6.3871516695",
+                "currencyname": "Chinese Yuan",
+                "culturecode": "zh-CN",
+                "symbol": "&#165;",
+                "id": 11,
+                "isocurrencysymbol": "CNY",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "3749.1587970976",
+                "currencyname": "Colombian Peso",
+                "culturecode": "es-CO",
+                "symbol": "$",
+                "id": 12,
+                "isocurrencysymbol": "COP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "653.7473547169",
+                "currencyname": "Costa Rica Colones",
+                "culturecode": "es-CR",
+                "symbol": "&#8353;",
+                "id": 192,
+                "isocurrencysymbol": "CRC",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "7.0060173413",
+                "currencyname": "hrk",
+                "culturecode": "hr-HR",
+                "symbol": "kn",
+                "id": 13,
+                "isocurrencysymbol": "HRK",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "22.6425970466",
+                "currencyname": "Czech Republic Koruny",
+                "culturecode": "cs-CZ",
+                "symbol": "&#75;&#269;",
+                "id": 196,
+                "isocurrencysymbol": "CZK",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "55.4846560431",
+                "currencyname": "Dominican Republic Pesos",
+                "culturecode": "es-DO",
+                "symbol": "RD$",
+                "id": 198,
+                "isocurrencysymbol": "DOP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "2.7016394883",
+                "currencyname": "East Caribbean Dollars",
+                "culturecode": "en-029",
+                "symbol": "$",
+                "id": 283,
+                "isocurrencysymbol": "XCD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "18.4673326085",
+                "currencyname": "Egypt Pounds",
+                "culturecode": "ar-EG",
+                "symbol": "&#163;",
+                "id": 200,
+                "isocurrencysymbol": "EGP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.9264078462",
+                "currencyname": "Euro",
+                "culturecode": "ca-ES",
+                "symbol": "&#8364;",
+                "id": 16,
+                "isocurrencysymbol": "EUR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "7.8420692453",
+                "currencyname": "Hong Kong Dollar",
+                "culturecode": "zh-HK",
+                "symbol": "$",
+                "id": 17,
+                "isocurrencysymbol": "HKD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "76.445971532",
+                "currencyname": "Indian Rupee",
+                "culturecode": "hi-IN",
+                "symbol": "&#8360;",
+                "id": 20,
+                "isocurrencysymbol": "INR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "14356.9083846176",
+                "currencyname": "Indonesia Rupiahs",
+                "culturecode": "id-ID",
+                "symbol": "Rp",
+                "id": 215,
+                "isocurrencysymbol": "IDR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "3.2365387101",
+                "currencyname": "Israeli New Shekel",
+                "culturecode": "he-IL",
+                "symbol": "&#8362;",
+                "id": 22,
+                "isocurrencysymbol": "ILS",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "129.3132663592",
+                "currencyname": "Japanese Yen",
+                "culturecode": "ja-JP",
+                "symbol": "&#165;",
+                "id": 23,
+                "isocurrencysymbol": "JPY",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "445.9720249931",
+                "currencyname": "Kazakhstan Tenge",
+                "culturecode": "kk-KZ",
+                "symbol": "&#1083;&#1074;",
+                "id": 24,
+                "isocurrencysymbol": "KZT",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.3057039484",
+                "currencyname": "Kuwaiti Dinar",
+                "culturecode": "ar-KW",
+                "symbol": "KD",
+                "id": 25,
+                "isocurrencysymbol": "KWD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "4.2545146646",
+                "currencyname": "Malaysian Ringgit",
+                "culturecode": "ms-MY",
+                "symbol": "RM",
+                "id": 29,
+                "isocurrencysymbol": "MYR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "43.1310168902",
+                "currencyname": "Mauritius Rupee",
+                "culturecode": "pa-Arab",
+                "symbol": "&#8360;",
+                "id": 30,
+                "isocurrencysymbol": "MUR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "20.0221876154",
+                "currencyname": "Mexican Peso",
+                "culturecode": "es-MX",
+                "symbol": "$",
+                "id": 31,
+                "isocurrencysymbol": "MXN",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "9.8429896697",
+                "currencyname": "Morocco Dirhams",
+                "culturecode": "ar-MA",
+                "symbol": "&#1583;&#1585;&#1575;&#1607;&#1605;",
+                "id": 231,
+                "isocurrencysymbol": "MAD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.4823738098",
+                "currencyname": "New Zealand Dollar",
+                "culturecode": "en-NZ",
+                "symbol": "$",
+                "id": 33,
+                "isocurrencysymbol": "NZD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.3845",
+                "currencyname": "Oman Rials",
+                "culturecode": "ar-OM",
+                "symbol": "&#65020;",
+                "id": 35,
+                "isocurrencysymbol": "OMR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "110.5498623159",
+                "currencyname": "Pacific Franc",
+                "culturecode": "fr-PF",
+                "symbol": "XPF",
+                "id": 287,
+                "isocurrencysymbol": "XPF",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "52.5530730418",
+                "currencyname": "Philippines Pesos",
+                "culturecode": "fil-PH",
+                "symbol": "&#80;&#104;&#112;",
+                "id": 248,
+                "isocurrencysymbol": "PHP",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "4.3032224383",
+                "currencyname": "Poland Zlotych",
+                "culturecode": "pl-PL",
+                "symbol": "&#122;&#322;",
+                "id": 249,
+                "isocurrencysymbol": "PLN",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "3.64",
+                "currencyname": "Qatari Rial",
+                "culturecode": "ar-QA",
+                "symbol": "&#65020;",
+                "id": 37,
+                "isocurrencysymbol": "QAR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "4.5781763726",
+                "currencyname": "Romanian Leu",
+                "culturecode": "ro-RO",
+                "symbol": "lei",
+                "id": 38,
+                "isocurrencysymbol": "RON",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "81.0434429932",
+                "currencyname": "Russian Ruble",
+                "culturecode": "ru-RU",
+                "symbol": "&#1088;&#1091;&#1073;",
+                "id": 39,
+                "isocurrencysymbol": "RUB",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "3.75",
+                "currencyname": "Saudi Arabia Riyals",
+                "culturecode": "ar-SA",
+                "symbol": "&#65020;",
+                "id": 40,
+                "isocurrencysymbol": "SAR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1.3677210662",
+                "currencyname": "Singapore Dollar",
+                "culturecode": "zh-SG",
+                "symbol": "$",
+                "id": 41,
+                "isocurrencysymbol": "SGD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "14.9704016972",
+                "currencyname": "South African Rand",
+                "culturecode": "af-ZA",
+                "symbol": "R",
+                "id": 42,
+                "isocurrencysymbol": "ZAR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "1239.94022481",
+                "currencyname": "South Korean Won",
+                "culturecode": "ko-KR",
+                "symbol": "&#8361;",
+                "id": 43,
+                "isocurrencysymbol": "KRW",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "333.605059312",
+                "currencyname": "lkr",
+                "culturecode": "si-LK",
+                "symbol": "&#8360;",
+                "id": 44,
+                "isocurrencysymbol": "LKR",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "9.5321187423",
+                "currencyname": "Swedish Krona",
+                "culturecode": "sv-SE",
+                "symbol": "kr",
+                "id": 45,
+                "isocurrencysymbol": "SEK",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "0.9520981808",
+                "currencyname": "Swiss Franc",
+                "culturecode": "de-CH",
+                "symbol": "CHF",
+                "id": 46,
+                "isocurrencysymbol": "CHF",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "29.2820136864",
+                "currencyname": "Taiwan Dollar",
+                "culturecode": "zh-TW",
+                "symbol": "NT$",
+                "id": 47,
+                "isocurrencysymbol": "TWD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "33.7847427532",
+                "currencyname": "Thai Baht",
+                "culturecode": "th-TH",
+                "symbol": "&#3647;",
+                "id": 48,
+                "isocurrencysymbol": "THB",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "6.811887846",
+                "currencyname": "Trinidad and Tobago Dollar",
+                "culturecode": "en-TT",
+                "symbol": "TT$",
+                "id": 49,
+                "isocurrencysymbol": "TTD",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "14.6559519545",
+                "currencyname": "Turkish Lira",
+                "culturecode": "tr-TR",
+                "symbol": "TL",
+                "id": 50,
+                "isocurrencysymbol": "TRY",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "3.6725",
+                "currencyname": "United Arab Emirates Dirhams",
+                "culturecode": "ar-AE",
+                "symbol": "&#1583;.&#1573;",
+                "id": 172,
+                "isocurrencysymbol": "AED",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "443836.577573761",
+                "currencyname": "Venezuelan Bolivar",
+                "culturecode": "es-VE",
+                "symbol": "Bs",
+                "id": 51,
+                "isocurrencysymbol": "VEF",
+                "__typename": "Currency"
+              },
+              {
+                "rate": "23112.0227282196",
+                "currencyname": "Vietnam Dong",
+                "culturecode": "vi-VN",
+                "symbol": "&#8363;",
+                "id": 277,
+                "isocurrencysymbol": "VND",
+                "__typename": "Currency"
+              }
+            ],
+            "__typename": "CurrencyResult"
+          },
+          "__typename": "CurrencySelectorModule"
+        },
+        "translationmodule": {
+          "pageseourl": "eng/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+          "currentlanguage": "ENG",
+          "languages": [
+            {
+              "name": "English - United States",
+              "id": 1,
+              "iso": "ENG",
+              "url": "eng/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Español - América",
+              "id": 2,
+              "iso": "SPU",
+              "url": "spu/venta/detalle/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Español - Europa",
+              "id": 3,
+              "iso": "SPA",
+              "url": "spa/venta/detalle/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Deutsch",
+              "id": 4,
+              "iso": "DEU",
+              "url": "deu/vertrieb/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Français - Canada",
+              "id": 5,
+              "iso": "FRC",
+              "url": "frc/ventes/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Français - Europe",
+              "id": 6,
+              "iso": "FRA",
+              "url": "fra/ventes/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Italiano",
+              "id": 7,
+              "iso": "ITA",
+              "url": "ita/vendite/dettaglio/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "日本語",
+              "id": 8,
+              "iso": "JPN",
+              "url": "jpn/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Português - Brasil",
+              "id": 9,
+              "iso": "POB",
+              "url": "pob/de-vendas/detalhe/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Português - Europeu",
+              "id": 10,
+              "iso": "POR",
+              "url": "por/vendas/detalhe/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Русский",
+              "id": 11,
+              "iso": "RUS",
+              "url": "rus/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "中文 -简体",
+              "id": 12,
+              "iso": "ZHS",
+              "url": "zhs/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "中文 -繁體",
+              "id": 13,
+              "iso": "ZHT",
+              "url": "zht/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "Tiếng Việt Nam",
+              "id": 14,
+              "iso": "VIE",
+              "url": "vie/ban-hang/chi-tiet/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            },
+            {
+              "name": "한국어",
+              "id": 15,
+              "iso": "KOR",
+              "url": "kor/sales/detail/180-l-814-xbymgh/63225-lookout-drive-bend-or-97703",
+              "__typename": "TranslationLanguage"
+            }
+          ],
+          "__typename": "TranslationModule"
+        },
+        "__typename": "GlobalPreferences"
+      },
+      "headers": [
+        {
+          "title": "Permissions-Policy",
+          "value": "autoplay=*, fullscreen=*, geolocation=*, picture-in-picture=*, clipboard-read=*, clipboard-write=*",
+          "__typename": "Header"
+        }
+      ],
+      "RelatedRegions": {
+        "RelatedRegion": null,
+        "__typename": "RelatedRegions"
+      },
+      "fourOFour": null,
+      "customHtmlContainers": [
+        {
+          "containertype": "HugeHeader",
+          "text": "<script src=\"//api.sothebysrealty.com/resources/v_4_19_0_290/siteresources/my folder/hugeheader/production/js/app.js?v=15\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"//api.sothebysrealty.com/resources/v_4_19_0_290/siteresources/my folder/hugeheader/production/css/app.css?v=15\" /> <link rel=\"stylesheet\" type=\"text/css\" href=\"//api.sothebysrealty.com/resources/v_4_19_0_290/siteresources/my folder/hugeheader/production/css/overrides.css?v=3\"> <app-wrapper></app-wrapper> <div class=\"icon icon-close-slim is-active js-close-icon refinemets-custom-close\" aria-hidden=\"true\"></div>",
+          "__typename": "CustomHtmlContainer"
+        },
+        {
+          "containertype": "CustomHTMLHeadContainer",
+          "text": "",
+          "__typename": "CustomHtmlContainer"
+        },
+        {
+          "containertype": "CustomHTMLBodyTopContainer",
+          "text": "",
+          "__typename": "CustomHtmlContainer"
+        },
+        {
+          "containertype": "smartmls",
+          "text": "The data relating to real estate for sale on this website appears in part through the SMARTMLS Internet Data Exchange program, a voluntary cooperative exchange of property listing data between licensed real estate brokerage firms, and is provided by SMARTMLS through a licensing agreement. Listing information is from various brokers who participate in the SMARTMLS IDX program and not all listings may be visible on the site. The property information being provided on or through the website is for the personal, non-commercial use of consumers and such information may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Some properties which appear for sale on the website may no longer be available because they are for instance, under contract, sold or are no longer being offered for sale. Property information displayed is deemed reliable but is not guaranteed. Copyright 2021 SmartMLS, Inc.",
+          "__typename": "CustomHtmlContainer"
+        },
+        {
+          "containertype": null,
+          "text": "",
+          "__typename": "CustomHtmlContainer"
+        }
+      ],
+      "freeForms": [
+        {
+          "text": "<a href=\"#mediaplayermodule\" class=\"viewgallery_button js-listingmedia is-absolute u-align-h u-color-positive--background u-zindex--footer\" rel=\"0\">View Gallery</a>",
+          "__typename": "freeForm"
+        },
+        {
+          "text": "<style type=\"text/css\"><!-- .scroll-widget__text:before { content: 'Scroll for more '; } @media (max-width: 45em) { .scroll-widget__text:before { content: ''; } } --></style> <div class=\"scroll-widget\"><span class=\"scroll-widget__text\">&nbsp;<span class=\"icon icon-arrow-down\" aria-hidden=\"true\"></span></span> <span class=\"icon icon-arrow-up\" aria-hidden=\"true\"></span></div>",
+          "__typename": "freeForm"
+        },
+        { "text": "", "__typename": "freeForm" }
+      ],
+      "redirect": null,
+      "LandingPageSearch": [
+        {
+          "id": "landingpagesearch",
+          "landing_page_search_data": {
+            "landing_page_search_config": {
+              "configurationkey": "hugeGlobalSearch",
+              "layout": {
+                "row": {
+                  "column": {
+                    "lps_control": [
+                      {
+                        "module": "smart_search",
+                        "customAttributes": null,
+                        "text": null,
+                        "value": null,
+                        "__typename": "LpsControl"
+                      },
+                      {
+                        "module": "literal",
+                        "customAttributes": "refresh",
+                        "text": "Buy",
+                        "value": "sales",
+                        "__typename": "LpsControl"
+                      },
+                      {
+                        "module": "literal",
+                        "customAttributes": "refresh",
+                        "text": "Rent",
+                        "value": "rentals",
+                        "__typename": "LpsControl"
+                      },
+                      {
+                        "module": "literal",
+                        "customAttributes": "link",
+                        "text": "Sell",
+                        "value": "/sell-with-us",
+                        "__typename": "LpsControl"
+                      },
+                      {
+                        "module": "literal",
+                        "customAttributes": "refresh",
+                        "text": "Agents",
+                        "value": "associates",
+                        "__typename": "LpsControl"
+                      },
+                      {
+                        "module": "literal",
+                        "customAttributes": "refresh",
+                        "text": "Blogs",
+                        "value": "blog",
+                        "__typename": "LpsControl"
+                      }
+                    ],
+                    "__typename": "Column"
+                  },
+                  "__typename": "Row"
+                },
+                "__typename": "Layout"
+              },
+              "settings": {
+                "setting": [
+                  { "value": "hugeGlobalSearch", "key": "layout" },
+                  { "value": "hugeGlobalSearch", "key": "search_type" },
+                  { "value": "false", "key": "location_selection_required" },
+                  {
+                    "value": "true",
+                    "key": "submit_search_on_location_select"
+                  },
+                  {
+                    "value": "Please select a location",
+                    "key": "error_no_location_selection"
+                  },
+                  {
+                    "value": "No results were found using the term \"{0}\" and current criteria. Please try another term or change your search criteria",
+                    "key": "error_smart_search"
+                  },
+                  { "value": "10", "key": "max_suggest_returns" },
+                  { "key": "submit_button_classes" },
+                  {
+                    "value": "icon-search",
+                    "key": "submit_button_icon_classes"
+                  },
+                  { "key": "listing_count_title" },
+                  { "value": "true", "key": "hide_tabs" },
+                  { "value": "true", "key": "ommit_submit_button_text" },
+                  { "value": "false", "key": "iframe_mode" },
+                  { "value": "sales", "key": "channelname" },
+                  { "value": "none", "key": "Advertisement_Mode" },
+                  { "key": "Advertisement_Url" },
+                  { "value": "location_nogroup", "key": "suggest_config_key" },
+                  { "value": "int", "key": "seo_location_default" }
+                ]
+              },
+              "__typename": "LandingPageSearchConfig"
+            },
+            "__typename": "LandingPageSearchData"
+          },
+          "__typename": "LandingPageSearchModule"
+        }
+      ],
+      "navigation": null,
+      "footer": {
+        "additionalCopy": null,
+        "affiliateInfo": null,
+        "links": null,
+        "__typename": "FooterModule"
+      },
+      "ListingInfoList": [
+        {
+          "id": "listinginfo_rentalavailability",
+          "section": {
+            "key": "sir_rentalavailability",
+            "item": [
+              { "key": "RentalAvailability", "__typename": "DataPoint" }
+            ],
+            "__typename": "Section"
+          },
+          "__typename": "ListingInfo"
+        },
+        {
+          "id": "listinginfo",
+          "section": {
+            "key": "sir_listinginfo",
+            "item": [
+              { "key": "SoldOrRentedDate", "__typename": "DataPoint" },
+              { "key": "StatusBanner", "__typename": "DataPoint" },
+              { "key": "Bedrooms", "__typename": "DataPoint" },
+              { "key": "FullBaths", "__typename": "DataPoint" },
+              { "key": "PartialBaths", "__typename": "DataPoint" },
+              { "key": "InteriorSize", "__typename": "DataPoint" },
+              { "key": "ExteriorSize", "__typename": "DataPoint" },
+              { "key": "PricePerUnit", "__typename": "DataPoint" },
+              { "key": "EnergyCertificateInfo", "__typename": "DataPoint" }
+            ],
+            "__typename": "Section"
+          },
+          "__typename": "ListingInfo"
+        },
+        {
+          "id": "listinginfo_openhouse",
+          "section": {
+            "key": "sir_listinginfo_openhouse",
+            "item": [{ "key": "OpenHouse", "__typename": "DataPoint" }],
+            "__typename": "Section"
+          },
+          "__typename": "ListingInfo"
+        },
+        {
+          "id": "listinginfo_1",
+          "section": {
+            "key": "sir_huge",
+            "item": [
+              { "key": "PropertyType", "__typename": "DataPoint" },
+              { "key": "StatusBanner", "__typename": "DataPoint" },
+              { "key": "BuiltYear", "__typename": "DataPoint" },
+              { "key": "AnnualCCMaintenance", "__typename": "DataPoint" },
+              { "key": "AnnualRealEstateTax", "__typename": "DataPoint" },
+              { "key": "MonthlyRealEstateTax", "__typename": "DataPoint" },
+              { "key": "MonthlyCCMaintenance", "__typename": "DataPoint" }
+            ],
+            "__typename": "Section"
+          },
+          "__typename": "ListingInfo"
+        }
+      ],
+      "__typename": "Listing"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  GraphQL:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: lambda.graphqlHandler
+      Runtime: nodejs12.x
+      Events:
+        AnyRequest:
+          Type: Api
+          Properties:
+            Path: /graphql
+            Method: ANY
+      CodeUri: s3://brandonvio-re-demo-api/36b46d7cab26183dd78c03e0050fc35e
+  GraphQLInspector:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: lambda.graphiqlHandler
+      Runtime: nodejs12.x
+      Events:
+        AnyRequest:
+          Type: Api
+          Properties:
+            Path: /graphiql
+            Method: ANY
+      CodeUri: s3://brandonvio-re-demo-api/36b46d7cab26183dd78c03e0050fc35e
