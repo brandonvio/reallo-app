@@ -16,7 +16,7 @@
     "graphql": "^14.6.0",
     "graphql-iso-date": "^3.6.1",
     "graphql-tools": "^4.0.7",
-    "knex": "^1.0.3",
+    "knex": "^2.4.0",
     "mime-types": "^2.1.26",
     "mysql2": "^2.1.0",
     "pg": "^8.0.3"
